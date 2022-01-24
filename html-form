@@ -4,7 +4,7 @@
     <title>Contact Details</title>
     </head>
     <body>
-        <h2>Enter your contact Details:</h2> <br>
+        <h2>Enter your contact Details in Full:</h2> <br>
         <form id="form1">
             <label for="name">Name :</label>
             <input type="text" id="name" name="name">
